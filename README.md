@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Luis👋
 
-<!--
-**LuisLechugaRuiz/LuisLechugaRuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Robotics Software Engineer with professional experience working on state-of-the-art humanoid robots. I'm fascinated by the intersection of AI and Robotics, and I'm dedicated to integrating cutting-edge AI advances into practical applications.
 
-Here are some ideas to get you started:
+## 👨‍💻 Technology Stack
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![ROS](https://img.shields.io/badge/-ROS-blue?style=flat-square&logo=ros)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏗️ Current Projects
+
+On construction...
+
+## 📫 How to reach me
+- Email: luislechugaruiz@gmail.com
+- LinkedIn: [Luis Lechuga Ruiz](https://www.linkedin.com/in/luis-lechuga-ruiz/)
