@@ -16,6 +16,10 @@ I'm a Robotics Software Engineer with professional experience working on state-o
 
 I'm currently focused on seamlessly integrating perception with manipulation in an end-to-end model. This repository documents my ongoing efforts in employing the latest transformer innovations to formulate a universal solution for a variety of manipulation tasks. [general_manipulation](https://github.com/LuisLechugaRuiz/general_manipulation)
 
+#### Deep_Learning_Robotics Repository:
+
+As a deep dive into the world of PyTorch and deep learning, this repository offers an in-depth tutorial ranging from foundational concepts to cutting-edge architectures. It not only serves as a learning platform but also provides insights into my advancements in deep learning in the realm of robotics. [deep_learning_robotics](https://github.com/LuisLechugaRuiz/deep_learning_robotics)
+
 #### MoveIt Hackathon Repository:
 
 In the recent MoveIt Hackathon, I secured the 3rd position with my project which bridges image segmentation and object classification. This processed information is then relayed to MoveIt for object grasping planning. Although I couldn't fully explore the grasping phase due to time limitations, this repository provides a comprehensive look into the initial stages of my project. [grab_anything](https://github.com/LuisLechugaRuiz/grab_anything)
@@ -29,6 +33,8 @@ An initiative to develop an agent capable of interacting with the user, and in d
 #### Newrail
 
 Following advancements like Auto-GPT, I was inspired to develop a multi-agent LLM system. This framework consists of memory storage, capabilities, and a pivotal task manager. It autonomously plans, focuses on pertinent memory data, and executes the relevant capability as instructed in the docstring. The code is modular and streamlined, though it currently requires adjustments for data storage since its original codebase with Supabase was deprecated. Two potential solutions include local storage or transitioning the data to Weaviate. [newrail_bot](https://github.com/LuisLechugaRuiz/newrail_bot)
+
+
 
 ## 📫 How to reach me
 - Email: luislechugaruiz@gmail.com
