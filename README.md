@@ -94,5 +94,5 @@ My long-term interest is the convergence of:
 ---
 
 ## Contact
-- Email: **luislechugaruiz@gmail.com**
+- Email: **luis@aware.run**
 - LinkedIn: [Luis Lechuga Ruiz](https://www.linkedin.com/in/luis-lechuga-ruiz/)
